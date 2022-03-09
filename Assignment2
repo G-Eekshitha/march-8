@@ -1,0 +1,10 @@
+x=input()
+y=input()
+print(x)
+print(y)
+print(x+y)
+
+
+computer
+science
+computerscience
